@@ -1,0 +1,8 @@
+
+{
+  "name": "TicketSwift",
+  "description": "A high-performance ticket booking chatbot for concerts, movies, and sports events with real-time availability and smart grounding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
